@@ -14,7 +14,7 @@ En cada momento sólo se tiene acceso a la parte superior de la pila, es decir, 
 Por analogía con objetos cotidianos, una operación apilar equivaldría a colocar un plato sobre una pila de platos, y una operación retirar a retirarlo.
 Las pilas suelen emplearse en los siguientes contextos:
 * Evaluación de expresiones en notación postfija (notación polaca inversa).
-  <b>Ejemplo:</b> [Conversión de Expresiones Infijas a Expresiones Postfijas](https://github.com/victorolave/Infijo_A_Posfijo_Java).
+  <b>Te recomiendo:</b> [Conversión de Expresiones Infijas a Expresiones Postfijas](https://github.com/victorolave/Infijo_A_Posfijo_Java).
 * Reconocedores sintácticos de lenguajes independientes del contexto
 * Implementación de recursividad.
 
